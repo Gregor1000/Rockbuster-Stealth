@@ -17,7 +17,7 @@ Most of the graphics were made via [Tableau Public](https://public.tableau.com/v
 + Data Storage & Structure
 + Database Quering in SQL
 + Filtering Data
-+ Summarizing & Cleaning Data in SQL
++ Summarizing & Cleaning Data in SQL (Descriptive Statistics SQL-Query)
 + Joining Tables of Data
 + Performing Subqueries
 + Common Table Expressions
