@@ -7,6 +7,8 @@ The data analyst course at Careerfoundry is project based. For learning SQL I di
 #### Which countries are Rockbuster customers based in?
 #### Where are customers with a high lifetime value based?
 #### Do sales figures vary between geographic regions?
+## Data
+We used a fictive dataset
 ## Learnings
 #### Introduction to Relational Databases
 #### Data Storage & Structure
