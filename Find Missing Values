@@ -1,0 +1,6 @@
+If the number of rows was greater than the number of rent values, then you'd have a case of missing values.
+
+SELECT
+COUNT(rental_rate) AS count_rent_values,
+COUNT(*) AS count_rows
+FROM film
