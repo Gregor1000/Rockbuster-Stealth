@@ -1,0 +1,10 @@
+We want to know all the movies where the rental_rate is below the average amount paid
+
+SELECT title,
+rating,
+release_year,
+rental_rate
+FROM film
+WHERE rental_rate < 
+(SELECT AVG(amount)
+FROM payment)
