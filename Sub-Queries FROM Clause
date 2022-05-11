@@ -1,0 +1,10 @@
+
+
+SELECT 
+COUNT(shortmovies.film_id), shortmovies.rating
+FROM
+(SELECT film.film_id, film.rating
+FROM film
+WHERE film.length <=100
+AND rating IN ('G','PG','PG-13')) AS shortmovies
+GROUP BY shortmovies.rating
