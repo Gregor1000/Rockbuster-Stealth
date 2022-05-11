@@ -1,0 +1,11 @@
+SELECT 
+A.first_name,
+A.last_name,
+B.address,
+B.phone,
+C.city,
+D.country
+FROM staff A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON C.city_id = B.city_id
+INNER JOIN country D ON D.country_id = C.country_id
