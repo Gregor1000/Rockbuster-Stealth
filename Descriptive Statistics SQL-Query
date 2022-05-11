@@ -4,5 +4,4 @@ AVG(rental_rate) AS average_movie_rental_rate,
 MIN(rental_duration) AS minimmum_rental_duration,
 MAX(rental_duration) AS maximum_rental_duration
 FROM film
-WHERE rating IN ('PG', 'G')
 GROUP BY rating
