@@ -20,5 +20,5 @@ Most of the graphics were made via [Tableau Public](https://public.tableau.com/v
 + Summarizing & Cleaning Data in SQL
 + Joining Tables of Data
 + Performing Subqueries
-+ Common Table Expressions
++ [Common Table Expressions](https://github.com/Gregor1000/Rockbuster-Stealth/blob/1d693d40e3017a7c3693705c1a28b3133bef3eec/SQL-queries/Common%20Table%20Expressions/Common%20Table%20Expression%20(CTE))
 + Create Visualizations in SQL
