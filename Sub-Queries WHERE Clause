@@ -1,4 +1,4 @@
-We want to know all the movies where the rental_rate is below the average amount paid
+We want to find all movies where the rental_rate is below the average amount paid
 
 SELECT title,
 rating,
