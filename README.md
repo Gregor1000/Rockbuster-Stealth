@@ -19,6 +19,6 @@ Most of the graphics were made via [Tableau Public](https://public.tableau.com/v
 + Filtering Data
 + [Summarizing](https://github.com/Gregor1000/Rockbuster-Stealth/blob/d1b21d0c917f945ab9a8ffff860030aba355cffd/SQL-queries/Summarizing%20&%20Cleaning%20Data%20in%20SQL/Descriptive%20Statistics%20SQL-Query) & [Cleaning Data in SQL](https://github.com/Gregor1000/Rockbuster-Stealth/blob/a7d6c6af044ba4cf837684ad36a623595aa922e3/SQL-queries/Summarizing%20&%20Cleaning%20Data%20in%20SQL/Find%20Missing%20Values)
 + [Joining Tables of Data](https://github.com/Gregor1000/Rockbuster-Stealth/blob/1a99d2f69b740cbe01df132ae46b8afaceb5e840/SQL-queries/Joining%20Tables%20of%20Data/Join%20Multiple%20Tables)
-+ Performing Subqueries
++ [Performing Subqueries](https://github.com/Gregor1000/Rockbuster-Stealth/blob/3263ba6c88c60539ca413769ab5a3bb26622354c/SQL-queries/Performing%20Subqueries/Sub-Queries%20with%20JOIN)
 + [Common Table Expressions](https://github.com/Gregor1000/Rockbuster-Stealth/blob/1d693d40e3017a7c3693705c1a28b3133bef3eec/SQL-queries/Common%20Table%20Expressions/Common%20Table%20Expression%20(CTE))
 + Create Visualizations in SQL
