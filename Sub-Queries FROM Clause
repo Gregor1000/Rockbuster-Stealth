@@ -1,4 +1,4 @@
-
+Find all movies with ratings G, PG and PG-13 where the lenght is smaller or equal to 100 minutes 
 
 SELECT 
 COUNT(shortmovies.film_id), shortmovies.rating
