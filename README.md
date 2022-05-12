@@ -17,7 +17,7 @@ Most of the graphics were made via [Tableau Public](https://public.tableau.com/v
 + Data Storage & Structure
 + Database Quering in SQL
 + Filtering Data
-+ Summarizing & Cleaning Data in SQL
++ [Summarizing](https://github.com/Gregor1000/Rockbuster-Stealth/blob/d1b21d0c917f945ab9a8ffff860030aba355cffd/SQL-queries/Summarizing%20&%20Cleaning%20Data%20in%20SQL/Descriptive%20Statistics%20SQL-Query) & Cleaning Data in SQL
 + [Joining Tables of Data](https://github.com/Gregor1000/Rockbuster-Stealth/blob/1a99d2f69b740cbe01df132ae46b8afaceb5e840/SQL-queries/Joining%20Tables%20of%20Data/Join%20Multiple%20Tables)
 + Performing Subqueries
 + [Common Table Expressions](https://github.com/Gregor1000/Rockbuster-Stealth/blob/1d693d40e3017a7c3693705c1a28b3133bef3eec/SQL-queries/Common%20Table%20Expressions/Common%20Table%20Expression%20(CTE))
