@@ -1,4 +1,4 @@
-# SQLqueries
+# SQL queries
 The data analyst course at Careerfoundry is project based. For learning SQL I did the following project:
 # Rockbuster Stealth Data Analyis
 ## Key Questions
