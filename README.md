@@ -1,11 +1,11 @@
 # SQL queries
-The data analyst course at CareerFoundry was project-based. For learning SQL I did the following project:
+The data analyst course at CareerFoundry was project-based. For learning SQL, I did the following project:
 # Rockbuster Stealth Data Analysis
 ## Key Questions
 1. Which movies contributed the most/least to revenue gain?
-2. What are the average rental duration for all videos?
+2. What is the average rental duration for all videos?
 3. Which countries are Rockbuster customers based in?
-4. Where are customers with a high lifetime value based?
+4. Where are customers with a high lifetime value-based?
 4. Do sales figures vary between geographic regions?
 ## Data
 A fictive dataset was used
