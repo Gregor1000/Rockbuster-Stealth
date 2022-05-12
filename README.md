@@ -17,7 +17,7 @@ Most of the graphics were made via [Tableau Public](https://public.tableau.com/v
 + Data Storage & Structure
 + Database Quering in SQL
 + Filtering Data
-+ [Summarizing](https://github.com/Gregor1000/Rockbuster-Stealth/blob/8c3a8df353c0dd2f06c872c816aa1569511b5300/Descriptive%20Statistics%20SQL-Query) & Cleaning Data in SQL]
++ Summarizing & Cleaning Data in SQL
 + Joining Tables of Data
 + Performing Subqueries
 + Common Table Expressions
