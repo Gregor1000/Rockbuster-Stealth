@@ -1,4 +1,4 @@
-We want to find the top 5 customers of the top 10 cities of the top 10 countries
+Find out how many of the top 5 customers are based within each country
 
 SELECT
 D.country,
