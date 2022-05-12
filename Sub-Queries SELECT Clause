@@ -1,4 +1,4 @@
-We want to find all movies where the payment is maximum.
+We want to find all movies where the amount paid is maximum.
 
 SELECT title, rating, release_year,
 (SELECT MAX(amount) 
