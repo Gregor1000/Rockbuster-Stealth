@@ -13,7 +13,7 @@ A fictive dataset was used
 + Findings were presented via a [PowerPoint Presentation](https://github.com/Gregor1000/Rockbuster-Stealth/blob/1770bb929bb1faff4905e8c23a2e6b0b23425ef8/Rockbuster%20Stealth%20Presentation%20Company%20Strategy.pptx).
 + Most of the graphics were made via [Tableau Public](https://public.tableau.com/views/RockbusterStealth_16522348297510/TopRevenueperCategory?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link). 
 + A [data dictionary](https://github.com/Gregor1000/Rockbuster-Stealth/blob/4b895e428889a9596a1f06a34de24b3061119ee8/Rockbuster%20Stealth%20Data%20Dictionary.pdf) was created.
-## Learnings
+## CareerFoundry Course Learnings
 + Introduction to Relational Databases
 + Data Storage & Structure
 + Database Querying in SQL
